@@ -4,9 +4,9 @@
   "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "obsidian-git",
   "obsidian-latex-suite",
   "obsidian-latex",
   "obsidian-functionplot",
-  "surfing"
+  "surfing",
+  "obsidian-git"
 ]
