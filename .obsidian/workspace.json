@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "2935af37c98528e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "37d4e79b34c3bf9e",
+        "type": "tabs",
+        "dimension": 84.13461538461539,
+        "children": [
+          {
+            "id": "20ee27923e0121c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/自动控制原理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d57e07d14879485f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考研/容易忘的公式.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "93292c90e39bfa02"
+          }
+        ]
+      },
+      {
+        "id": "7eaa9bf407fe71a3",
+        "type": "tabs",
+        "dimension": 15.865384615384615,
+        "children": [
+          {
+            "id": "781d173119b226db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/容易忘的公式.md"
+              }
+            },
+            "group": "93292c90e39bfa02"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77107ab4853e7a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7d813f53b32e84b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d97a914cb63f7b26",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afc85d930456e043",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d8aa923589f1ead",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "12ba5f855f8e6b92",
+    "type": "split",
+    "children": [
+      {
+        "id": "b69542541b9f1f20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64a9625c638e313e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "考研/自动控制原理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e62f793d8df77499",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "考研/自动控制原理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42a633f0305c5f6e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "612629013261cedd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "考研/自动控制原理.md"
+              }
+            }
+          },
+          {
+            "id": "2099351babd7c781",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "zk-prefixer:创建时间戳笔记": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "surfing:surfing-bookmark-manager": false
+    }
+  },
+  "active": "20ee27923e0121c3",
+  "lastOpenFiles": [
+    "新建 Text Document.txt",
+    "新建文件夹",
+    "README.md",
+    "Pasted image 20241011000919.jpg",
+    "IMG_0853.jpeg",
+    "微信图片_20241009193212.jpg",
+    "考研/容易忘的公式.md",
+    "Pasted image 20241008092158.png",
+    "Pasted image 20241008091937.png",
+    "考研/自动控制原理.md",
+    "Pasted image 20241008002355.png",
+    "Pasted image 20241007155441.png",
+    "Pasted image 20241007155440.png",
+    "Pasted image 20241007150034.png",
+    "Pasted image 20241007105507.png",
+    "考研/Drawing 2024-10-07 00.13.53.excalidraw.md",
+    "考研/一些数学重点题.md",
+    "容易忘的公式.md",
+    "未命名 2.canvas",
+    "Recording 20241007000918.m4a",
+    "一些数学重点题.md",
+    "未命名 1.md",
+    "PC 工具.md",
+    "Snipaste.lnk",
+    "DownKyi.lnk",
+    "HEIF Image.heic",
+    "考研/线性代数.md",
+    "第四章--逆变电路_2.pdf",
+    "未命名.canvas",
+    "未命名.md",
+    "概率论Note.md",
+    "第四章--逆变电路_2 2.pdf",
+    "电力电子技术.md",
+    "未命名 1.canvas"
+  ]
+}
